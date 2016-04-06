@@ -4,4 +4,6 @@
 
 Lorem Ipsum the quick brown fox jumped over the lazy sleeping dog.
 
+Added methods
+
 
