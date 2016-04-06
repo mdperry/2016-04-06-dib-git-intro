@@ -1,2 +1,6 @@
 I was born in San Francisco, California. In 2010 I published 2 papers
 in Science with Aurlien.
+
+Wow, here I am using the GNU nano editor and it seems like my cursor moving commands
+are similar to GNU emacs, huh. Who knew? Does that mean that Pico also uses those
+commands?
