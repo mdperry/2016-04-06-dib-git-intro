@@ -6,4 +6,8 @@ Lorem Ipsum the quick brown fox jumped over the lazy sleeping dog.
 
 Added methods
 
+Adding some stuff here, I guess.  Oh interesting, at least on this MBP
+when I launched GNU emacs on the command line using 'emacs -nw
+thesis.txt' while the program opens up in the 'scratch' buffer but
+when I used C-x b the thesis.txt buffer _IS_ open.
 
